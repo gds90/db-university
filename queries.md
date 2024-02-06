@@ -42,5 +42,9 @@ FROM `departments`;
 
 8. Quanti sono gli insegnanti che non hanno un numero di telefono? (50)
 
+SELECT COUNT(*) AS `teachers_no_telefono` 
+FROM `teachers` 
+WHERE `phone` IS NULL;
+
 BONUS:
 9. Selezionare nome, descrizione e periodo di tutti i corsi che hanno sito web diverso da null, cfu compresi tra 9 e 12 e che sono del primo anno ed ordinarli in ordine decrescente
