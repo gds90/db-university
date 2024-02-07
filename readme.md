@@ -18,3 +18,7 @@ nome repo: db-university
 Dopo aver creato un nuovo database nel vostro phpMyAdmin e aver importato lo schema allegato (non dovete scompattare il file zip, semplicemente andate nella sezione importa, e fate drag and drop oppure prendetelo dai file delle vostre cartelle, esattamente come visto a lezione), eseguite le query del file allegato.
 Cosa consegnare?
 Dopo aver testato le vostre query con phpMyAdmin, riportatele in un file txt, md o altro e caricatelo nella vostra repo.
+
+Esercizio di oggi 07.02.24:
+Utilizzando lo stesso database di ieri, eseguite le query in allegato. Obbligatoriamente ne dovete fare 3 per il group by e tre per le JOIN.
+Caricate un secondo file nella stessa repo di ieri (db-university) con le query di oggi.
