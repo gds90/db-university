@@ -14,4 +14,4 @@ GROUP BY `exam_id`;
 
 SELECT `department_id`, COUNT(id) as `totale_corsi_laurea` 
 FROM `degrees` 
-ROUP BY `department_id`;
+GROUP BY `department_id`;
